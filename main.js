@@ -23,6 +23,6 @@ function addlinhas(){
     linha += '</tr>'
     linhas += linha
     tabela.innerHTML = linhas;
-    nome = ''
-    numero = ''
+    nome.value = ''
+    numero.value = ''
 }
